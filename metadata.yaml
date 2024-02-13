@@ -1,0 +1,35 @@
+_repo: A-journey-to-Central-Africa-b-Or-Life-and-landscapes-from-Egypt-to-the-Negro-kingdoms-of-the-__72823
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, James Bayard
+    - Taylor, J. B.
+    - Taylor, J.B.
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: https://en.wikipedia.org/wiki/Bayard_Taylor
+description: ''
+gutenberg_issued: '2024-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72823'
+language: en
+pgterms:marc904: https://archive.org/details/journeytocentral00tayl
+pgterms:marc905: 20210130054142taylor
+pgterms:marc906: '1869'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bG. P. Putnam and Son, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A journey to Central Africa : $b Or, Life and landscapes from Egypt to the
+  Negro kingdoms of the White Nile'
+url: http://www.gutenberg.org/ebooks/72823
